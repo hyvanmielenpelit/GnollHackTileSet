@@ -10,11 +10,11 @@ This repository contains individual PNG files of the GnollHack tile set, from wh
 4. Open the [TileSetCompiler solution](https://github.com/hyvanmielenpelit/TileSetCompiler) with **Visual Studio 2022**.
 5. Select the **TileSetCompiler** profile in the **green arrow debug drop down menu** in the menu bar. The determines that the program searches for assets in `C:\Repositories\hyvanmielenpelit\GnollHackTileSet`.
     - If you want to use another repository location, you can create your own launch profile in [launchSettings.json](https://github.com/hyvanmielenpelit/TileSetCompiler/blob/master/TileSetCompiler/Properties/launchSettings.json).
-5. **Start Debugging** the TileSetCompiler project.
-6. The tile map files will appear in the main directory of the GnollHackTileSet repository:
+6. **Start Debugging** the TileSetCompiler project.
+7. The tile map files will appear in the main directory of the GnollHackTileSet repository:
     - gnollhack_64x96_transparent_32bits.png
     - gnollhack_64x96_transparent_32bits-2.png
-7. A log file will appear in the main directory of the GnollHackTileSet repository:
+8. A log file will appear in the main directory of the GnollHackTileSet repository:
     - gnollhack_tilenames.txt
 
 ## Updating Repository
