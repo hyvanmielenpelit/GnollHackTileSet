@@ -1,4 +1,4 @@
-# GnollHackTileSet
+# GnollHack Tile Set
 
 This repository contains individual PNG files of the GnollHack tile set, from which you can build the sprite sheets using TileSetCompiler.
 
