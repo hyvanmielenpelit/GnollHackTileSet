@@ -1,0 +1,166 @@
+4260/0	UI\buff\tile-0\tile-0_fire-immunity.png	OK	OK
+4260/1	UI\buff\tile-0\tile-0_cold-immunity.png	OK	OK
+4260/2	UI\buff\tile-0\tile-0_sleep-resistance.png	OK	OK
+4260/3	UI\buff\tile-0\tile-0_disintegration-resistance.png	OK	OK
+4260/4	UI\buff\tile-0\tile-0_shock-resistance.png	OK	OK
+4260/5	UI\buff\tile-0\tile-0_poison-resistance.png	OK	OK
+4260/6	UI\buff\tile-0\tile-0_acid-resistance.png	OK	OK
+4260/7	UI\buff\tile-0\tile-0_stone-resistance.png	OK	OK
+4260/8	UI\buff\tile-0\tile-0_drain-resistance.png	OK	OK
+4260/9	UI\buff\tile-0\tile-0_sick-resistance.png	OK	OK
+4260/10	UI\buff\tile-0\tile-0_invulnerable.png	OK	OK
+4260/11	UI\buff\tile-0\tile-0_antimagic.png	OK	OK
+4260/12	UI\buff\tile-0\tile-0_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4260/13	UI\buff\tile-0\tile-0_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4260/14	UI\buff\tile-0\tile-0_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4260/15	UI\buff\tile-0\tile-0_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4260/16	UI\buff\tile-0\tile-0_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4260/17	UI\buff\tile-0\tile-0_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4260/18	UI\buff\tile-0\tile-0_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4260/19	UI\buff\tile-0\tile-0_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4260/20	UI\buff\tile-0\tile-0_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4260/21	UI\buff\tile-0\tile-0_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4260/22	UI\buff\tile-0\tile-0_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4260/23	UI\buff\tile-0\tile-0_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4261/0	UI\buff\tile-1\tile-1_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4261/1	UI\buff\tile-1\tile-1_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4261/2	UI\buff\tile-1\tile-1_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4261/3	UI\buff\tile-1\tile-1_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4261/4	UI\buff\tile-1\tile-1_see-invisible.png	OK	OK
+4261/5	UI\buff\tile-1\tile-1_telepathy.png	OK	OK
+4261/6	UI\buff\tile-1\tile-1_warning.png	OK	OK
+4261/7	UI\buff\tile-1\tile-1_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4261/8	UI\buff\tile-1\tile-1_warn-undead.png	OK	OK
+4261/9	UI\buff\tile-1\tile-1_searching.png	OK	OK
+4261/10	UI\buff\tile-1\tile-1_clairvoyant.png	OK	OK
+4261/11	UI\buff\tile-1\tile-1_infravision.png	OK	OK
+4261/12	UI\buff\tile-1\tile-1_detect-monsters.png	OK	OK
+4261/13	UI\buff\tile-1\tile-1_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4261/14	UI\buff\tile-1\tile-1_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4261/15	UI\buff\tile-1\tile-1_displaced.png	OK	OK
+4261/16	UI\buff\tile-1\tile-1_stealth.png	OK	OK
+4261/17	UI\buff\tile-1\tile-1_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4261/18	UI\buff\tile-1\tile-1_conflict.png	OK	OK
+4261/19	UI\buff\tile-1\tile-1_jumping.png	OK	OK
+4261/20	UI\buff\tile-1\tile-1_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4261/21	UI\buff\tile-1\tile-1_teleport-control.png	OK	OK
+4261/22	UI\buff\tile-1\tile-1_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4261/23	UI\buff\tile-1\tile-1_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4262/0	UI\buff\tile-2\tile-2_water-walking.png	OK	OK
+4262/1	UI\buff\tile-2\tile-2_swimming.png	OK	OK
+4262/2	UI\buff\tile-2\tile-2_magical-breathing.png	OK	OK
+4262/3	UI\buff\tile-2\tile-2_passes-walls.png	OK	OK
+4262/4	UI\buff\tile-2\tile-2_slow-digestion.png	File not found	Creating Missing UI Sub-Tile.
+4262/5	UI\buff\tile-2\tile-2_half-spell-damage.png	File not found	Creating Missing UI Sub-Tile.
+4262/6	UI\buff\tile-2\tile-2_half-physical-damage.png	File not found	Creating Missing UI Sub-Tile.
+4262/7	UI\buff\tile-2\tile-2_regeneration.png	OK	OK
+4262/8	UI\buff\tile-2\tile-2_energy-regeneration.png	OK	OK
+4262/9	UI\buff\tile-2\tile-2_magical-protection.png	OK	OK
+4262/10	UI\buff\tile-2\tile-2_prot-from-shapechangers.png	OK	OK
+4262/11	UI\buff\tile-2\tile-2_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4262/12	UI\buff\tile-2\tile-2_polymorph-control.png	OK	OK
+4262/13	UI\buff\tile-2\tile-2_unchanging.png	File not found	Creating Missing UI Sub-Tile.
+4262/14	UI\buff\tile-2\tile-2_fast.png	OK	OK
+4262/15	UI\buff\tile-2\tile-2_reflecting.png	OK	OK
+4262/16	UI\buff\tile-2\tile-2_free-action.png	OK	OK
+4262/17	UI\buff\tile-2\tile-2_fixed-ability.png	File not found	Creating Missing UI Sub-Tile.
+4262/18	UI\buff\tile-2\tile-2_life-saved.png	OK	OK
+4262/19	UI\buff\tile-2\tile-2_death-resistance.png	OK	OK
+4262/20	UI\buff\tile-2\tile-2_lycanthropy-resistance.png	OK	OK
+4262/21	UI\buff\tile-2\tile-2_curse-resistance.png	File not found	Creating Missing UI Sub-Tile.
+4262/22	UI\buff\tile-2\tile-2_blind-telepathy.png	File not found	Creating Missing UI Sub-Tile.
+4262/23	UI\buff\tile-2\tile-2_enhanced-vision.png	File not found	Creating Missing UI Sub-Tile.
+4263/0	UI\buff\tile-3\tile-3_flash-resistance.png	File not found	Creating Missing UI Sub-Tile.
+4263/1	UI\buff\tile-3\tile-3_eye-protection.png	File not found	Creating Missing UI Sub-Tile.
+4263/2	UI\buff\tile-3\tile-3_brain-protection.png	File not found	Creating Missing UI Sub-Tile.
+4263/3	UI\buff\tile-3\tile-3_warn-demon.png	File not found	Creating Missing UI Sub-Tile.
+4263/4	UI\buff\tile-3\tile-3_warn-orc.png	File not found	Creating Missing UI Sub-Tile.
+4263/5	UI\buff\tile-3\tile-3_warn-troll.png	File not found	Creating Missing UI Sub-Tile.
+4263/6	UI\buff\tile-3\tile-3_warn-giant.png	File not found	Creating Missing UI Sub-Tile.
+4263/7	UI\buff\tile-3\tile-3_warn-dragon.png	File not found	Creating Missing UI Sub-Tile.
+4263/8	UI\buff\tile-3\tile-3_warn-elf.png	File not found	Creating Missing UI Sub-Tile.
+4263/9	UI\buff\tile-3\tile-3_warn-dwarf.png	File not found	Creating Missing UI Sub-Tile.
+4263/10	UI\buff\tile-3\tile-3_warn-gnoll.png	File not found	Creating Missing UI Sub-Tile.
+4263/11	UI\buff\tile-3\tile-3_warn-human.png	File not found	Creating Missing UI Sub-Tile.
+4263/12	UI\buff\tile-3\tile-3_warn-lycanthrope.png	File not found	Creating Missing UI Sub-Tile.
+4263/13	UI\buff\tile-3\tile-3_warn-angel.png	File not found	Creating Missing UI Sub-Tile.
+4263/14	UI\buff\tile-3\tile-3_warn-ogre.png	File not found	Creating Missing UI Sub-Tile.
+4263/15	UI\buff\tile-3\tile-3_warn-gnome.png	File not found	Creating Missing UI Sub-Tile.
+4263/16	UI\buff\tile-3\tile-3_charm-resistance.png	OK	OK
+4263/17	UI\buff\tile-3\tile-3_mind-shielding.png	OK	OK
+4263/18	UI\buff\tile-3\tile-3_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4263/19	UI\buff\tile-3\tile-3_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4263/20	UI\buff\tile-3\tile-3_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4263/21	UI\buff\tile-3\tile-3_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4263/22	UI\buff\tile-3\tile-3_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4263/23	UI\buff\tile-3\tile-3_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4264/0	UI\buff\tile-4\tile-4_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4264/1	UI\buff\tile-4\tile-4_magical-shielding.png	OK	OK
+4264/2	UI\buff\tile-4\tile-4_magical-barkskin.png	OK	OK
+4264/3	UI\buff\tile-4\tile-4_magical-stoneskin.png	OK	OK
+4264/4	UI\buff\tile-4\tile-4_xray-vision.png	OK	OK
+4264/5	UI\buff\tile-4\tile-4_very-fast.png	OK	OK
+4264/6	UI\buff\tile-4\tile-4_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4264/7	UI\buff\tile-4\tile-4_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4264/8	UI\buff\tile-4\tile-4_halved-magic-resistance.png	OK	OK
+4264/9	UI\buff\tile-4\tile-4_no-magic-resistance.png	OK	OK
+4264/10	UI\buff\tile-4\tile-4_charmed.png	OK	OK
+4264/11	UI\buff\tile-4\tile-4_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4264/12	UI\buff\tile-4\tile-4_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4264/13	UI\buff\tile-4\tile-4_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4264/14	UI\buff\tile-4\tile-4_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4264/15	UI\buff\tile-4\tile-4_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4264/16	UI\buff\tile-4\tile-4_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4264/17	UI\buff\tile-4\tile-4_levitation-control.png	File not found	Creating Missing UI Sub-Tile.
+4264/18	UI\buff\tile-4\tile-4_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4264/19	UI\buff\tile-4\tile-4_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4264/20	UI\buff\tile-4\tile-4_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4264/21	UI\buff\tile-4\tile-4_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4264/22	UI\buff\tile-4\tile-4_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4264/23	UI\buff\tile-4\tile-4_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4265/0	UI\buff\tile-5\tile-5_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4265/1	UI\buff\tile-5\tile-5_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4265/2	UI\buff\tile-5\tile-5_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4265/3	UI\buff\tile-5\tile-5_one-fourth-magic-resistance.png	OK	OK
+4265/4	UI\buff\tile-5\tile-5_three-fourths-magic-resistance.png	OK	OK
+4265/5	UI\buff\tile-5\tile-5_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4265/6	UI\buff\tile-5\tile-5_titan-strength.png	OK	OK
+4265/7	UI\buff\tile-5\tile-5_magic-missile-immunity.png	File not found	Creating Missing UI Sub-Tile.
+4265/8	UI\buff\tile-5\tile-5_stun-resistance.png	File not found	Creating Missing UI Sub-Tile.
+4265/9	UI\buff\tile-5\tile-5_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4265/10	UI\buff\tile-5\tile-5_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4265/11	UI\buff\tile-5\tile-5_divine-endurance.png	File not found	Creating Missing UI Sub-Tile.
+4265/12	UI\buff\tile-5\tile-5_divine-intellect.png	File not found	Creating Missing UI Sub-Tile.
+4265/13	UI\buff\tile-5\tile-5_divine-wisdon.png	File not found	Creating Missing UI Sub-Tile.
+4265/14	UI\buff\tile-5\tile-5_divine-dexterity.png	File not found	Creating Missing UI Sub-Tile.
+4265/15	UI\buff\tile-5\tile-5_divine-charisma.png	File not found	Creating Missing UI Sub-Tile.
+4265/16	UI\buff\tile-5\tile-5_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4265/17	UI\buff\tile-5\tile-5_fire-resistance.png	File not found	Creating Missing UI Sub-Tile.
+4265/18	UI\buff\tile-5\tile-5_cold-resistance.png	File not found	Creating Missing UI Sub-Tile.
+4265/19	UI\buff\tile-5\tile-5_shock-resistance.png	File not found	Creating Missing UI Sub-Tile.
+4265/20	UI\buff\tile-5\tile-5_magic-missile-resistance.png	File not found	Creating Missing UI Sub-Tile.
+4265/21	UI\buff\tile-5\tile-5_acid-resistance.png	File not found	Creating Missing UI Sub-Tile.
+4265/22	UI\buff\tile-5\tile-5_ultra-fast.png	OK	OK
+4265/23	UI\buff\tile-5\tile-5_super-fast.png	OK	OK
+4266/0	UI\buff\tile-6\tile-6_lightning-fast.png	OK	OK
+4266/1	UI\buff\tile-6\tile-6_heroism.png	OK	OK
+4266/2	UI\buff\tile-6\tile-6_super-heroism.png	OK	OK
+4266/3	UI\buff\tile-6\tile-6_rapid-regeneration.png	OK	OK
+4266/4	UI\buff\tile-6\tile-6_rapider-regeneration.png	OK	OK
+4266/5	UI\buff\tile-6\tile-6_rapidest-regeneration.png	OK	OK
+4266/6	UI\buff\tile-6\tile-6_rapid-energy-regeneration.png	OK	OK
+4266/7	UI\buff\tile-6\tile-6_rapider-energy-regeneration.png	OK	OK
+4266/8	UI\buff\tile-6\tile-6_rapidest-energy-regeneration.png	OK	OK
+4266/9	UI\buff\tile-6\tile-6_melee-life-leech.png	File not found	Creating Missing UI Sub-Tile.
+4266/10	UI\buff\tile-6\tile-6_crazed.png	OK	OK
+4266/11	UI\buff\tile-6\tile-6_divine-regeneration.png	OK	OK
+4266/12	UI\buff\tile-6\tile-6_improved-fire-resistance.png	File not found	Creating Missing UI Sub-Tile.
+4266/13	UI\buff\tile-6\tile-6_improved-cold-resistance.png	File not found	Creating Missing UI Sub-Tile.
+4266/14	UI\buff\tile-6\tile-6_improved-shock-resistance.png	File not found	Creating Missing UI Sub-Tile.
+4266/15	UI\buff\tile-6\tile-6_improved-magic-missile-resistance.png	File not found	Creating Missing UI Sub-Tile.
+4266/16	UI\buff\tile-6\tile-6_improved-acid-resistance.png	File not found	Creating Missing UI Sub-Tile.
+4266/17	UI\buff\tile-6\tile-6_undead-immobility.png	OK	OK
+4266/18	UI\buff\tile-6\tile-6_undead-control.png	OK	OK
+4266/19	UI\buff\tile-6\tile-6_no_buff.png	File not found	Creating Missing UI Sub-Tile.
+4266/20	UI\buff\tile-6\tile-6_half-slow-digestion.png	File not found	Creating Missing UI Sub-Tile.
+4266/21	UI\buff\tile-6\tile-6_no_buff.png	File not found	Creating Missing UI Sub-Tile.
