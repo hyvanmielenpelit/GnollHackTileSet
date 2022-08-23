@@ -19,6 +19,7 @@ This repository contains individual PNG files of the GnollHack tile set, from wh
 
 ## Updating Repository
 
-1. Open the GnollHackTileSet folder with **Visual Studio Code**.
+1. Open the GnollHackTileSet folder with **Visual Studio Code** *(File → Open Folder)*.
 2. Copy new or updated files to the repository using  **File Explorer**.
-3. Push changes to GitHub using **Visual Studio Code**.
+3. Commit changes using **Visual Studio Code** and the **Source Control View**.
+4. Push or sync changes to GitHub using **Visual Studio Code** and the **Source Control View**.
