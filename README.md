@@ -4,6 +4,8 @@ This repository contains individual PNG files of the GnollHack tile set, from wh
 
 ## Tile Map Build Instructions
 
+These build instructions are for Windows. You need  [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) to follow these instructions.
+
 1. Clone GnollHackTileSet repository to `C:\Repositories\hyvanmielenpelit\GnollHackTileSet`
 2. Clone [TileSetCompiler](https://github.com/hyvanmielenpelit/TileSetCompiler) repository to `C:\Repositories\hyvanmielenpelit\TileSetCompiler`
 3. Build [GnollHack](https://github.com/hyvanmielenpelit/GnollHack) for Windows (ASCII or GUI).
@@ -25,6 +27,8 @@ This repository contains individual PNG files of the GnollHack tile set, from wh
     - gnollhack_tilenames.txt
 
 ## Updating Repository
+
+Updating the repository is done using [Visual Studio Code](https://code.visualstudio.com/).
 
 1. Open the GnollHackTileSet folder with **Visual Studio Code** *(File → Open Folder)*.
 2. Copy new or updated files to the repository using  **File Explorer**.
