@@ -14,7 +14,7 @@ These build instructions are for Windows. You need  [Visual Studio 2022](https:/
     1. Start the **GnollHack Windows executable**  in Wizard Mode by using `-D -u wizard` command line parameters. *(You can create a shortcut for this.)*
     2. Use the **#wizsavetiledata** extended command within the game.
     3. **tile_definition.csv** file appears in the same directory as the executable.
-    4. Copy the file to the main directory of the GnollHackTileSet repository.
+    4. Copy the file to the main directory of the **GnollHackTileSet** repository.
 5. Open the [TileSetCompiler solution](https://github.com/hyvanmielenpelit/TileSetCompiler) with **Visual Studio 2022**.
 6. Select the **TileSetCompiler** profile in the **green arrow drop down menu (Debug options)** in the menu bar. This determines that the program searches for assets in `C:\Repositories\hyvanmielenpelit\GnollHackTileSet`.
     - If you want to use another repository location for GnollHackTileSet, you can create your own launch profile in [launchSettings.json](https://github.com/hyvanmielenpelit/TileSetCompiler/blob/master/TileSetCompiler/Properties/launchSettings.json).
