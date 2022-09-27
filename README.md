@@ -11,7 +11,7 @@ These build instructions are for Windows. You need  [Visual Studio 2022](https:/
 3. Build the ASCII Version of [GnollHack](https://github.com/hyvanmielenpelit/GnollHack) for Windows.
     - [ASCII Version Build Instructions](https://github.com/hyvanmielenpelit/GnollHack/wiki/Build-Instructions-for-ASCII-Version-on-Windows)
 4. Create **tile_definition.csv**:
-    1. Start the **GnollHack Windows executable**  in Wizard Mode by using `-D -u wizard` command line parameters. *(You can create a shortcut for this.)*
+    1. Start the **GnollHack Windows executable** as **Administrator** in **Wizard Mode** by using `-D -u wizard` command line parameters. *(You can create a shortcut for this. **Run as Administator** is found under **Advanced**.)*
     2. Use the **#wizsavetiledata** extended command within the game.
     3. **tile_definition.csv** file appears in the same directory as the executable.
     4. Copy the file to the main directory of the **GnollHackTileSet** repository.
