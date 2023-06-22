@@ -24,12 +24,3 @@ These build instructions are for Windows. You need  [Visual Studio 2022](https:/
     - gnollhack_64x96_transparent_32bits-2.png
 9. A **log file** will appear in the main directory of the GnollHackTileSet repository:
     - gnollhack_tilenames.txt
-
-## Updating Repository
-
-Updating the repository is done using [Visual Studio Code](https://code.visualstudio.com/).
-
-1. Open the GnollHackTileSet folder with **Visual Studio Code** *(File → Open Folder)*.
-2. Copy new or updated files to the repository using  **File Explorer**.
-3. Commit changes using **Visual Studio Code** and the **Source Control View**.
-4. Push or sync changes to GitHub using **Visual Studio Code** and the **Source Control View**.
