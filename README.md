@@ -9,6 +9,7 @@ These build instructions are for Windows. You need  [Visual Studio 2022](https:/
 1. Clone GnollHackTileSet repository to `C:\hmp\GnollHackTileSet`
 2. Clone [TileSetCompiler](https://github.com/hyvanmielenpelit/TileSetCompiler) repository to `C:\hmp\TileSetCompiler`
 3. Build the ASCII Version of [GnollHack](https://github.com/hyvanmielenpelit/GnollHack) for Windows.
+    - In this case, remove NO_TILES preprocessor definition from GnollHack project's Project Properties under Configuration Properties > C/C++ > Preprocessor > Preprocessor Definitions
     - [ASCII Version Build Instructions](https://github.com/hyvanmielenpelit/GnollHack/wiki/Build-Instructions-for-ASCII-Version-on-Windows)
 4. Create **tile_definition.csv**:
     1. Start the **GnollHack Windows executable (GnollHack.exe)** in **Wizard Mode** by using `-D -u wizard` command line parameters.
