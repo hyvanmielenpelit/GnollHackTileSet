@@ -23,6 +23,7 @@ These build instructions are for Windows. You need  [Visual Studio 2022](https:/
 8. The **tile set files** will appear in the main directory of the GnollHackTileSet repository:
     - gnollhack_64x96_transparent_32bits.png
     - gnollhack_64x96_transparent_32bits-2.png
+    - gnollhack_64x96_transparent_32bits-3.png
 9. A **log file** will appear in the main directory of the GnollHackTileSet repository:
     - gnollhack_tilenames.txt
 10. Copy the **tile set files** (both .png files) to the `win\win32\tileset` directory of the [GnollHack](https://github.com/hyvanmielenpelit/GnollHack) repository.
